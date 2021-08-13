@@ -30,7 +30,7 @@
                   class="bg-gray-500 mt-12 text-white active:bg-blueGray-600 font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
                   type="button"
                 >
-                  <i class="fas fa-heart"></i> Github
+                  <i class="fas fa-heart"></i> github
                 </a>
                 <a
                   href="https://gitee.com/yinzhuoei/InternetQuestionBank"
