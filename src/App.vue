@@ -3,12 +3,7 @@
   <router-view></router-view>
 </template>
 
-<script>
+<script setup lang="ts">
 import Nav from "../src/layouts/nav.vue";
-export default {
-  name: "App",
-  components: {
-    Nav,
-  },
-};
+
 </script>
