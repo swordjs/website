@@ -26,6 +26,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          ACCESS_TOKEN: ${{ secrets.sword-website-action }}
+          TOKEN: ${{ secrets.sword-website-action }}
           BRANCH: gh-pages
           FOLDER: dist
+          CLEAN: true
