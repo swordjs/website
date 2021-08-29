@@ -37,7 +37,7 @@
                   class="bg-gray-500 mt-12 text-white active:bg-blueGray-600 font-bold uppercase text-base px-8 py-3 rounded shadow-md hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
                   type="button"
                 >
-                  <i class="fas fa-heart"></i> 码云
+                  <i class="fas fa-heart"></i> gitee
                 </a>
               </div>
             </div>
@@ -91,7 +91,7 @@
                   </div>
                   <h6 class="text-xl font-semibold">免费开源</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    我们将开源有关剑指题解的一切，包括合作的所有题库的内容将开发成API
+                    我们将开源有关剑指题解的一切，包括合作的所有题库的内容
                   </p>
                 </div>
               </div>
@@ -179,7 +179,8 @@
                 《剑指题解》项目就是一个优秀的互联网行业聚合题库神器。
               </p>
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
+                type="_blank"
+                href="https://github.com/swordCodePractice"
                 class="font-bold text-gray-800 mt-8"
                 >快去Github中支持我们吧~</a
               >
