@@ -1,24 +1,16 @@
 {
-  "name": "swordWebsite",
-  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "deploy": "gh-pages -d dist"
-  },
-  "dependencies": {
-    "@rollup/plugin-dynamic-import-vars": "^1.4.0",
-    "vue": "^3.2.2",
-    "vue-router": "^4.0.11"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.2.3",
-    "@vue/compiler-sfc": "^3.2.2",
-    "autoprefixer": "^10.3.1",
-    "gh-pages": "^3.2.3",
-    "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7",
-    "vite": "^2.3.8",
-    "vue-tsc": "^0.0.24"
+    "@iconify-json/tabler": "^1.1.18",
+    "@unocss/nuxt": "^0.43.2",
+    "@unocss/preset-attributify": "^0.43.2",
+    "@unocss/preset-icons": "^0.43.2",
+    "nuxt": "3.0.0-rc.4"
   }
 }
