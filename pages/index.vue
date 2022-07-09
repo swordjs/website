@@ -66,6 +66,7 @@ const url = (value: string) => {
     line-height: 33px;
     font-size: 0.7813vw;
     font-weight: 400;
+    color: black;
     margin-top: 0.9229vw;
 }
 
