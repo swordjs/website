@@ -29,5 +29,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ACCESS_TOKEN: ${{ secrets.ACCESSTOKEN }}
           BRANCH: gh-pages
-          FOLDER: .output/public
+          FOLDER: dist
           CLEAN: true
